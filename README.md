@@ -4,7 +4,7 @@ This is a simple web scraping application built with Python. It allows you to sc
 
 ## How to Use
 
-1. **Download and Run the `.exe` File**  
+1. **Download and Run the `.py` File**  
    Download the executable file and run it on your system.
 
 2. **Input the Title**  
