@@ -1,6 +1,7 @@
 # Web Scraping for the The Publication, Printing and Distribution Authority of Viet Nam
 
 This is a simple web scraping application built with Python. It allows you to scrape data about a specific work and save it into an Excel file.
+![image](https://github.com/user-attachments/assets/006ef3c3-9c46-4d2e-941a-fc317e981b5b)
 
 ## How to Use
 
